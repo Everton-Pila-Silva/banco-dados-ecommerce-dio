@@ -2,7 +2,7 @@
 
 ## Objetivo:
 
-### refinar projeto apresentado, alterando e adicionando tabelas e elementos:
+### Refinar projeto apresentado, alterando e adicionando tabelas e elementos:
 
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
